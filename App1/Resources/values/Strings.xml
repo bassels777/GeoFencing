@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello World, Click Me!</string>
+  <string name="app_name">App1</string>
+  <string-array name="DistanceUnit">
+    <item>Meters</item>
+    <item>Kilo Meters</item>
+  </string-array>
+  <string-array name="DistanceQuantity">
+    <item>1</item>
+    <item>5</item>
+    <item>10</item>
+    <item>15</item>
+    <item>25</item>
+    <item>50</item>
+  </string-array>
+  <string-array name="PolicyOptions">
+  <item>Turn the boiler on</item>
+  <item>Turn the living room lights on</item>
+  <item>Turn the air conditioner on</item>
+  <item>Open the garage door</item>
+  </string-array>
+</resources>
