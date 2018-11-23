@@ -11,7 +11,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace App1
+namespace GeoFencing
 {
     [Activity(Label = "MainScreenActivity", MainLauncher = false)]
     public class MainScreenActivity : Activity

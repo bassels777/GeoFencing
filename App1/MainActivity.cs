@@ -17,7 +17,7 @@ using Java.Lang;
 using Exception = Java.Lang.Exception;
 using ILocationListener = Android.Gms.Location.ILocationListener;
 
-namespace App1
+namespace GeoFencing
 {
     [Activity(Label = "App1", MainLauncher = false, Icon = "@mipmap/icon")]
     public class MainActivity : Activity, ILocationListener
@@ -47,7 +47,6 @@ namespace App1
                     var x = 5;
                 })
                 .Build();
-
             
             button.Click += delegate
             {

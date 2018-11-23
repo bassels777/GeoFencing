@@ -9,9 +9,9 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using App1.Services;
+using GeoFencing.Services;
 
-namespace App1
+namespace GeoFencing
 {
     [Activity(Label = "QRCodeScannerActivity", MainLauncher = true)]
     public class QRCodeScannerActivity : Activity,  View.IOnClickListener

@@ -10,7 +10,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace App1
+namespace GeoFencing
 {
     [Activity(Label = "CreatePolicyActivity", MainLauncher = false)]
     public class CreatePolicyActivity : Activity

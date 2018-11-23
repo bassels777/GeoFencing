@@ -11,7 +11,7 @@
 
 [assembly: global::Android.Runtime.ResourceDesignerAttribute("App1.Resource", IsApplication=true)]
 
-namespace App1
+namespace GeoFencing
 {
 	
 	
@@ -26,9 +26,9 @@ namespace App1
 		
 		public static void UpdateIdValues()
 		{
-			global::ZXing.Mobile.Resource.Id.contentFrame = global::App1.Resource.Id.contentFrame;
-			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::App1.Resource.Layout.zxingscanneractivitylayout;
-			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::App1.Resource.Layout.zxingscannerfragmentlayout;
+			global::ZXing.Mobile.Resource.Id.contentFrame = global::GeoFencing.Resource.Id.contentFrame;
+			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::GeoFencing.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::GeoFencing.Resource.Layout.zxingscannerfragmentlayout;
 		}
 		
 		public partial class Animation

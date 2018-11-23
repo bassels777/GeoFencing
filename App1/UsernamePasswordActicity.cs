@@ -10,7 +10,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace App1
+namespace GeoFencing
 {
     [Activity(Label = "UsernamePasswordActicity", MainLauncher = false)]
     public class UsernamePasswordActicity : Activity

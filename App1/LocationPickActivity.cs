@@ -14,7 +14,7 @@ using Android.Views;
 using Android.Widget;
 using Plugin.Geolocator;
 
-namespace App1
+namespace GeoFencing
 {
     [Activity(Label = "LocationPickActivity", MainLauncher = false)]
     public class LocationPickActivity : FragmentActivity, IOnMapReadyCallback

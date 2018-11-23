@@ -15,7 +15,7 @@ using Android.Views;
 using Android.Widget;
 using ILocationListener = Android.Gms.Location.ILocationListener;
 
-namespace App1
+namespace GeoFencing
 {
     [Service]
     public class LocationService : Service, ILocationListener

@@ -12,7 +12,7 @@ using Android.Views;
 using Android.Widget;
 using ZXing.Mobile;
 
-namespace App1.Services
+namespace GeoFencing.Services
 {
     public interface IQrScanningService
     {
